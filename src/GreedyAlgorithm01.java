@@ -11,7 +11,6 @@ public class GreedyAlgorithm01 {
                 count += input/5;
                 break;
             }else{
-
                 if(input <3){
                     count = -1;
                     break;
